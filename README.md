@@ -1,0 +1,4 @@
+wiktest
+=======
+
+Wiki test
